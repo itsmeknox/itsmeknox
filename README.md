@@ -20,8 +20,11 @@
   </ul>
   <li>🔍 Currently diving deeper into:</li>
   <ul>
-    <li>JavaScript (always more to learn!)</li>
-    <li>C/C++ (excited to explore the world of systems programming)</li>
+    <li>JavaScript/Typescript</li>
+    <li>Rust</li>
+    <li>C++</li>
+    <li>Java</li>
+    <li>Golang</li>
   </ul>
 </ul>
 
