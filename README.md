@@ -1,31 +1,45 @@
-<h1 align="center">👋 Hello, I'm Knox!</h1>
+## 👣 My Journey
 
-<p align="center">
-  <samp>A student with a passion for coding and a love for learning.</samp>
-</p>
+I started coding in **11th standard** — not from a science background, but from **commerce**. While most people were preparing for B.Tech and engineering paths, I made a conscious choice to take a different route.
+
+Science never really interested me, but I was drawn to **creating and building**. Choosing commerce gave me something I value deeply: **time**. Time to learn how real systems are built, how production works, and how tools connect at scale.
+
+Instead of following a traditional academic route, I taught myself how to work with real tools, build end-to-end systems, and deploy projects from scratch. While others followed tutorials, I was writing my own architecture.
+
+After finishing school, I chose **BCA**, not because I had to, but because I was already building. For the last 2+ years, I’ve been creating backend systems, managing deployments, writing internal APIs, and self-hosting full stacks on my own servers.
+
+I don’t aim to be just a developer. I’m building toward becoming someone who can design, scale, and operate real-world systems.
+
+> _"Don’t follow the traditional path. Build your own."_
 
 
-<hr>
+---
 
-<h2>🚀 About Me</h2>
+## 🔧 What I Work With
 
-<ul>
-  <li>💻 Started coding in January 2023, and I've been hooked ever since.</li>
-  <li>🌟 Proficient in:</li>
-  <ul>
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-  </ul>
-  <li>🔍 Currently diving deeper into:</li>
-  <ul>
-    <li>JavaScript/Typescript</li>
-    <li>Rust</li>
-    <li>C++</li>
-    <li>Java</li>
-    <li>Golang</li>
-  </ul>
-</ul>
+- **Primary Language:** Python  
+- **Also Use:** JavaScript, HTML/CSS  
+- **Currently Exploring:** Golang
 
-<hr>
+- **Frameworks & Tools:** FastAPI, Next.js, Docker, Git  
+- **Databases:** PostgreSQL, MongoDB, SQLite  
+- **Infrastructure:** VPS hosting, Dokploy, CI/CD  
+- **System Tools:** Redis, RabbitMQ, Event-Driven Architecture
+
+- **Practices I Focus On:**  
+  - Scalable API Design  
+  - Distributed Systems  
+  - Caching & Queues  
+  - Real-world DevOps & Deployment  
+  - Production-grade Microservices
+
+---
+
+## 🧠 Current Focus
+
+- Going deeper into **system design**
+- Learning and applying **DevOps best practices**
+- Building **resilient, scalable, and maintainable systems**
+- Writing software that runs and survives in production
+
+> _"Learning never ends — but shipping always teaches more."_
