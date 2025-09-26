@@ -23,7 +23,7 @@ I don’t aim to be just a developer. I’m building toward becoming someone who
 
 - **Frameworks & Tools:** FastAPI, Next.js, Docker, Git  
 - **Databases:** PostgreSQL, MongoDB, SQLite  
-- **Infrastructure:** VPS hosting, Dokploy, CI/CD  
+- **Infrastructure:** VPS hosting, CI/CD  
 - **System Tools:** Redis, RabbitMQ, Event-Driven Architecture
 
 - **Practices I Focus On:**  
